@@ -1,0 +1,14 @@
+---
+applications:
+- instances: 1
+  timeout: 180
+  name: doot
+  buildpack: sdk-for-nodejs
+  command: npm start
+  memory: 256MB
+  domain: eu-gb.cf.appdomain.cloud
+  host: 2doot
+  services:
+    - cloudant-2doot-i0cc4b1exe8ad-d-18877
+  env:
+    OPTIMIZE_MEMORY: true

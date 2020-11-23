@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <title>Team 1 | 2DOOT1 - Just Doot It</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="icon.png" type="image/gif">
+  </head>
+
+  <body>
+
+    <div class="nav-bar">
+        <img id="nav-bar-logo" src="logo.png"></img>
+        <button id="nav-bar-button" onclick="location.href='login.html'">LOG OUT</button>
+        <button id="nav-bar-button" onclick="location.href='index.html'">TO DO LIST</button> <!-- index.html causes the database to dissappear D:-->
+        <button id="nav-bar-button" onclick="appHealth()">SITE<br>HEALTH</button>
+        <button id="nav-bar-button" onclick="location.reload()">REFRESH<br>DATABASE</button>
+    </div>
+
+    <div id="name">
+      <p>Add Item</p>
+      <input type="text" placeholder="What 2DOO?" autofocus>
+      <p>Add Description</p>
+      <input type="text" placeholder="Describe what 2DOO" autofocus>
+      <p>Add Date</p>
+      <input type="date" autofocus>
+
+      <br><br>
+      <input type="button" onclick="" value="ADD IT">
+        
+      <p id="responseHead"></p>
+      <ul id="responseArea"></ul>
+
+      <div id="completed">
+        <h1 style="text-decoration: underline;">Completed Items</h1>
+        <ul id="completedItems"></ul>
+      </div>
+    </div>
+
+    <script src="index.js"></script>
+  
+  </body>
+</html>

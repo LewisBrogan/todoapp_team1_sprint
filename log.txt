@@ -1,0 +1,589 @@
+commit 3205c67dc2df9e6ef93f3f5ef3693575b9ace430
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Fri Oct 9 11:11:30 2020 +0100
+
+    Fixed the list item ID in the markedDone() function
+
+commit 0e26441ada5daa18e0dac31520892aa56122449b
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Fri Oct 9 11:06:25 2020 +0100
+
+    Testing a new checkbox feature (v4)
+
+commit 3bcafac155de60933733fe486a7958480394ae46
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Fri Oct 9 11:02:24 2020 +0100
+
+    Testing a new checkbox feature (v3)
+
+commit 2e72a34e8a589be6300bc7cbfa7070747ff980b7
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Fri Oct 9 10:54:40 2020 +0100
+
+    Testing a new checkbox feature (v2)
+
+commit eb508b882cdb96098c59f09b332099d18fadcdc8
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Fri Oct 9 10:42:41 2020 +0100
+
+    Testing a new checkbox feature
+
+commit 8acdda6c2c85e4d04f18159f5dd1aa3a16ab0f6e
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Fri Oct 9 10:27:24 2020 +0100
+
+    Added an onclick function() to the 'li' elemend (JavaScript)
+
+commit e7627e8cd65d8df1ceff13d4c5319f1a5fc675b2
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Fri Oct 9 10:10:45 2020 +0100
+
+    Added id to the 'li' element in index.js
+
+commit acd2746a2ec0c0ea744034b792668ccfa7d25986
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Fri Oct 9 10:06:28 2020 +0100
+
+    Function to turn items to green or red depending on if the checkbox is ticked or not (beta)
+
+commit bdceb7573ce18e10d068bb2a8e3df61b3da39367
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Fri Oct 9 09:59:06 2020 +0100
+
+    Added a checkbox to the response area (JavaScript)
+
+commit f186d3efec4bdc3a9aa167f6d6d10b310dede874
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Fri Oct 9 09:55:34 2020 +0100
+
+    Fixed up indentation a bit in the html files
+
+commit 458bb2623d8c82982e776492fd741b476e76d771
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Thu Oct 8 13:47:00 2020 +0100
+
+    Added some messages to html pages for front end team
+
+commit bfd195d051627efc472cedee4ed86d4af39d1442
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Thu Oct 8 13:30:37 2020 +0100
+
+    Pushed 'Add It' button down a bit using 2x <br>
+
+commit d0ca8fd88688ba1846a75b96d6a329cd4a27e91b
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Thu Oct 8 13:24:02 2020 +0100
+
+    Moved the 'Add It' button above the database item area
+
+commit ca8a3322ed2c36b0c5075efd1e2a58d5048cd903
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Thu Oct 8 13:19:46 2020 +0100
+
+    Re-added the 'overflow: auto' to the #name div (for scrollabillity)
+    git push
+
+commit ac9d0764db41bdeb85671dea4e6641fa2148680c
+Author: Andrew <18004410@uhi.ac.uk>
+Date:   Thu Oct 8 12:34:17 2020 +0100
+
+    Added description
+    
+    Added a box for the description of a task
+
+commit 8bfd458ebd3450e56622dc1d518b5b469a4a2a48
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Thu Oct 8 10:45:55 2020 +0100
+
+    Edited the #name box's CSS and the input tag's css
+
+commit 49b29b3cf0553a32d3e29f1f5241c239481bdc11
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Thu Oct 8 10:32:05 2020 +0100
+
+    Edited the #name box's CSS
+
+commit 57c06b2bdf31daba8a7f836dbd20e05b3d4c0c37
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Thu Oct 8 10:23:00 2020 +0100
+
+    Removed login-button id from the to do list button
+
+commit 4cae621febb99afb9525430f9a51b71b401f1883
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Thu Oct 8 10:18:18 2020 +0100
+
+    Altered nav bar login button on login page to just reload the page
+
+commit d008729defb3f2725480b98017ad6038cd9de43a
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Thu Oct 8 10:16:23 2020 +0100
+
+    Added favicon to login page
+
+commit 67b2b7569b7023ce9a4b9c6e09d9bf3f349da44f
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Thu Oct 8 10:15:33 2020 +0100
+
+    Added favicon to the site pages
+
+commit 2d2051389b2605234909f12c9ae58b7a1525e0eb
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Thu Oct 8 10:12:11 2020 +0100
+
+    Changed date input type to 'date'
+
+commit 809709d9a141030e55d84ea7fa2b72acafd3e5e6
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Thu Oct 8 08:58:51 2020 +0100
+
+    changed the text in the #responseHead
+
+commit 7f3ed701bbfc1aa5a070bce3b9364383ea21c299
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Thu Oct 8 08:53:26 2020 +0100
+
+    comments on index.html
+
+commit 14dc913a31f7ac90bf996ae1884844969635e921
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Thu Oct 8 08:29:38 2020 +0100
+
+    moved the database contents below everything
+
+commit 1db89b957a564911ae9cea7ba244d8db7bf10b7f
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Thu Oct 8 08:21:47 2020 +0100
+
+    just making the button reload the page until we can fix the issue with it not added the date
+
+commit 6556ec5396ef2a924909e3c26d91bd7bd76820c4
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Thu Oct 8 08:08:26 2020 +0100
+
+    Sorted some of the formatting and had to changed the redirect to the actual site instead of index.html as it causes the database to vanish
+
+commit 41c9d09bac4ac885d6c13a002baed9d62f713d2f
+Author: Grant J <06019118@uhi.ac.uk>
+Date:   Wed Oct 7 17:34:22 2020 +0100
+
+     added button and date box
+
+commit e777ddca58dd2cc59a7b71015a9a5be0ece185f9
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Wed Oct 7 09:40:23 2020 +0100
+
+    Added border around #name
+
+commit efaaecacb471d237cfd504070b6f67fa90bd8af1
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Wed Oct 7 09:36:20 2020 +0100
+
+    Edited CSS - Added a comment and deleted a class we don't use
+
+commit 5a23bbe35f4ed36453677784e72e456f134bcd9c
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Wed Oct 7 09:26:48 2020 +0100
+
+    Changed index.html login button to 'LOG OUT'
+
+commit 08f35d0502b4dde11ebc8fb67d57019f3aa976fd
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Wed Oct 7 09:25:58 2020 +0100
+
+    Changed opacity of the login area (just for fun)
+
+commit d785d3a12db70c102f49dafc67e409dbfb13e8e0
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Wed Oct 7 09:18:05 2020 +0100
+
+    edited login button href link
+
+commit 97c7bfff3b250833382edaca30e6c125dfa45a8a
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Wed Oct 7 09:13:49 2020 +0100
+
+    Added 'refresh database' button to index.html
+
+commit 5b2ea3531d48623bfa63944ea8258f2cb32c0375
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Wed Oct 7 00:56:02 2020 +0100
+
+    Added some JSON data to health-controller
+
+commit 3737ad69fc3ccfb244400eabdcd066a871011cc4
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Wed Oct 7 00:49:54 2020 +0100
+
+    Linking the index.html to the /health route with JS (test 2)
+
+commit 06383f1585d4892c6b36cfa91c9abd521e348b59
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Wed Oct 7 00:46:24 2020 +0100
+
+    Linking the index.html to the /health route with JS (test)
+
+commit 91b21b98d6d13875feafbec22a46cf2c9dca3bad
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Wed Oct 7 00:32:04 2020 +0100
+
+    Changed login.html <title>
+
+commit c31e60870e03424b2c4daa36c1024993e9991236
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Wed Oct 7 00:23:26 2020 +0100
+
+    Added nav-bar to login.html, edited nav-bar's CSS, linked pages together in nav-bar
+
+commit b43abab1c1744bcf57cb0d9ac559b253507caf56
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Wed Oct 7 00:01:07 2020 +0100
+
+    Added a nav-bar at the top of the site's pages
+
+commit 405f6bf50974640ee5843ab2ba7988e601ca6b33
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Tue Oct 6 22:47:26 2020 +0100
+
+    Added some comments in index.html for front-end team
+
+commit 1040e13e029857a72b1891e91d2fab804d066c48
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Tue Oct 6 22:39:58 2020 +0100
+
+    Tidied up the index.html file (i.e. indentation)
+
+commit 3faa47afeb1200d00f76ef1edd758e2721d6873a
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Tue Oct 6 22:16:14 2020 +0100
+
+    Removed white background on Logo with Adobe PS
+
+commit c1dd8deb7a86f1e73f764b013e3fe36b5c413e2c
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Tue Oct 6 22:08:58 2020 +0100
+
+    Removed <div> full of IBM links and removed the default <h1>
+
+commit 14bac51b0ba6a65e054142a507459acc78d4f04b
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Tue Oct 6 20:09:43 2020 +0100
+
+    Updated 'README.md' file with public URL link to team app'
+
+commit 7311edef1a37384d8fb6d51148d1cb8436e7228d
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Tue Oct 6 20:06:49 2020 +0100
+
+    Updated this new version with the old HTML and CSS files
+
+commit 9831a793cb56ce502ee7ab7e503bc1e9ff7308a4
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Tue Oct 6 16:09:36 2020 +0100
+
+    the whole team are praying for this to work
+
+commit dfcf6e8ae6f4091fe52be8e686dd407ed2c8c3a8
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Tue Oct 6 15:22:20 2020 +0100
+
+    yeet fix
+
+commit acb66be7f57db6ad11f598aa95241682f8c043ab
+Author: Grant J <06019118@uhi.ac.uk>
+Date:   Tue Oct 6 15:00:26 2020 +0100
+
+    the right files this time
+
+commit 90789db4a5521225c20b2187c383565b5c9640b0
+Author: Grant J <06019118@uhi.ac.uk>
+Date:   Tue Oct 6 14:54:05 2020 +0100
+
+    changed the files uploaded
+
+commit deded72a8397ff35b7df67038cdfaf3241ec9b11
+Author: Grant J <06019118@uhi.ac.uk>
+Date:   Tue Oct 6 14:31:55 2020 +0100
+
+    playing the html and css files
+
+commit 36748474f3c3bca1dfa2d8cf605892e4ce1d5788
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Tue Oct 6 12:30:20 2020 +0100
+
+    no idea
+
+commit 39ce618d746921213d3c0fb2db7c4486050d53ef
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Tue Oct 6 02:50:25 2020 +0100
+
+    Removed 'submit' button from index.html
+
+commit 2b70edbdebca00afcc72ce83d3f0b7db256a9562
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Tue Oct 6 02:44:28 2020 +0100
+
+    Testing a 'submit' button
+
+commit 14972233b872be1279bb4a63829c4edd64baf85e
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Mon Oct 5 22:18:28 2020 +0100
+
+    Removed directory
+    
+    Removed and sent to Andy via .zip folder
+    
+    We are only going to keep the app files in this repo from now on to prevent issues/bugs.
+
+commit 58848be422cfe3179c36936a978f71e693cc762b
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Mon Oct 5 22:11:08 2020 +0100
+
+    moving all files back to primary dir see if it fixes pipeline etc
+
+commit 806fa78c0ea403e141e132897802f6d21417e3be
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Mon Oct 5 21:43:54 2020 +0100
+
+    Moved Andy's table back a directory into it's own directory
+    
+    See directory 'Andy's HTML Table Practice
+
+commit 413a8507a9dc392de874fa73e14335de36639021
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Mon Oct 5 21:38:50 2020 +0100
+
+    Fixed up Andy's 'indextable.html' and added helpful comments
+    
+    See comments.
+
+commit 98c1613fc736080ecc27aad2fcf25b35ec3c761e
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Mon Oct 5 20:32:39 2020 +0100
+
+    changed abit in html, also changed the font in .css as someone put it white..
+
+commit 8102a416fe87bbbdcf207ee281715c5d3eb22c6f
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Mon Oct 5 17:22:17 2020 +0100
+
+    Login page CSS edits
+    
+    Hover effect on login border altered, added a transition of 3 seconds to the hover change. (just for fun)
+
+commit 55446963df440263f3dad54a6d28b30846cb28bc
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Mon Oct 5 17:12:12 2020 +0100
+
+    Removed a script tag from index.html
+    
+    Only had it there as a test, no changes added.
+
+commit d610fae1342b4db9c5faa4057fcbba466618a306
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Mon Oct 5 17:10:03 2020 +0100
+
+    Altered background colour on <html> and <body>
+
+commit 615ae7b57cd4d77a6823d2dec12b86ef66017f4f
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Mon Oct 5 17:09:06 2020 +0100
+
+    Added hover effect to login border (white to green)
+
+commit 54b142e56b35e5004dfe0b7c7f799df78f507dbd
+Author: Andrew <18004410@uhi.ac.uk>
+Date:   Mon Oct 5 16:22:23 2020 +0100
+
+    To do list css and html
+    
+    The CSS and HTML for the table used for the to do list
+
+commit 6a15893bdf5b8db954092ff1b4b61bcfc55db1f9
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Mon Oct 5 14:16:43 2020 +0100
+
+    Logo uncommented on index.html
+
+commit 60d955bddf8174ef8e0d2ebe35920d1ac0fe641d
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Mon Oct 5 14:15:03 2020 +0100
+
+    the boys chose a logo
+
+commit a978b246798d7b158e3fb8e86e2ee906d478ee3b
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Mon Oct 5 14:09:57 2020 +0100
+
+    pls work
+
+commit 616f93b18ef12b14e34ded98707392bf055f3b31
+Merge: 840425f 0e24c40
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Mon Oct 5 14:08:00 2020 +0100
+
+    Merge branch 'master' of bitbucket.org:iLewisBrogan/team1project/src/master into master
+
+commit 840425fdd242a9a04e7db9eaeafe64bd7f636f6d
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Mon Oct 5 14:07:39 2020 +0100
+
+    added an amazing logo
+
+commit 0e24c40e5130c75765c7538fad0c337f01e0fbaa
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Mon Oct 5 13:47:02 2020 +0100
+
+    Commented out 'logo-center' class on index.html
+
+commit 1bde2a56dca68aeba17653ee1a6b38d3dd42cf60
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Mon Oct 5 13:35:10 2020 +0100
+
+    Indentation fixed on index.html
+
+commit a3d47e059f05209a248035a3b6a01953313bbc61
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Mon Oct 5 12:47:19 2020 +0100
+
+    Login page (Background-color) changed
+
+commit 26d4404e559d29ec66eb4d118451c425ab8aa63b
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Mon Oct 5 12:41:06 2020 +0100
+
+    Login page edited
+
+commit 92461bf72e8604f475dd6bd4724243ff7eb238c3
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Mon Oct 5 10:57:41 2020 +0100
+
+    deleting file
+
+commit af6b90673bbac5b0b8cba7197e30e24e5511f7a9
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Mon Oct 5 10:49:30 2020 +0100
+
+    added logo
+
+commit b72393de5a8b494f1e2229abdf10c45468326ce5
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Mon Oct 5 10:31:45 2020 +0100
+
+    Background colour changed in CSS
+
+commit 813f197ee7f038465696e221cd42e445d70931fa
+Merge: 14a4c02 a4fc170
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Mon Oct 5 10:23:02 2020 +0100
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 14a4c02189e9c68c759bc2dbf568a78c078c4296
+Author: Alex Duthie <alexduthiemain@outlook.com>
+Date:   Mon Oct 5 10:17:16 2020 +0100
+
+    Login page created
+    
+    -style.CSS edited between line 46 and line 87
+    - style.CSS edited between line 3 and line 10
+    - login.html file created, 25 lines
+
+commit a4fc170a5041da9123e636669ca072834919ed23
+Author: Alex Duthie <alexduthiemain@outlook.com>
+Date:   Mon Oct 5 10:17:16 2020 +0100
+
+    Login page created
+    
+    -style.CSS edited between line 46 and line 87
+    - style.CSS edited between line 3 and line 10
+    - login.html file created, 25 lines
+
+commit 157eedb83993bf6fcbfd89b5c318f560627a0306
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Sun Oct 4 22:37:41 2020 +0100
+
+    Trying to change author name, bare with me XD
+
+commit 8bcf32718730e3b8f5fba6282c1230cc26a62d3c
+Author: Alex Duthie <alexduthiemain@outlook.com>
+Date:   Sun Oct 4 22:24:39 2020 +0100
+
+    Testing something, no changes to project.
+
+commit a5e02b13fff065b2cb560c44b1df778c1ce522f6
+Merge: cb6e17c a6b3eff
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Sun Oct 4 22:16:21 2020 +0100
+
+    Merge branch 'master' of bitbucket.org:iLewisBrogan/team1project/src/master into master
+
+commit cb6e17cf26137a11285922c68844d5a3051a72f1
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Sun Oct 4 22:15:55 2020 +0100
+
+    Testing commands on my CLI, no changes to app
+
+commit a6b3eff0394d68bcfefaa8d1c6687d4542931814
+Author: ALEXANDER DUTHIE <alexduthiemain@outlook.com>
+Date:   Sat Oct 3 13:41:28 2020 +0100
+
+    testing cli
+
+commit c63131b7031ec6409e055a20b195685b4ad458a7
+Author: Alex Duthie <alexduthiemain@outlook.com>
+Date:   Wed Sep 30 23:38:58 2020 +0100
+
+    'Project Description.pdf' moved location
+
+commit 6a6be57cc9ecc15d19a10cbe950401f413287ba7
+Author: Alex Duthie <alexduthiemain@outlook.com>
+Date:   Wed Sep 30 23:37:15 2020 +0100
+
+    Added the 'app' directories to a parent directory
+    
+    Added the 'app' directories to a parent directory named 'teamApp'
+
+commit d0eb2ac92a7ba34613cddc7922d1cd3f6c17bcb1
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Mon Sep 28 16:08:33 2020 +0100
+
+    added the new app
+
+commit 61c74bd90f9acf0fe39f556756a43646bbb364f8
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Mon Sep 28 15:32:21 2020 +0100
+
+    REMOVED EVERYTHING :D
+
+commit 0d75571ce919cc2c6c2bb7d76b414014c0e175b6
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Mon Sep 28 13:32:11 2020 +0100
+
+    adding the app files
+
+commit 97b50e5b2ed4e9a1dc0bc60c0a6374956886cfe1
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Mon Sep 28 13:21:58 2020 +0100
+
+    test
+
+commit 81ad4bfbb1a6cb674470796cdd10d316e25a60af
+Author: Alex Duthie <alexduthiemain@outlook.com>
+Date:   Mon Sep 28 13:09:46 2020 +0100
+
+    Project Description PDF
+    
+    Requirements and Description of this project
+
+commit 27aee7087d2b759b14e4a906133fdaf6b5102f35
+Author: Alex Duthie <alexduthiemain@outlook.com>
+Date:   Mon Sep 28 13:01:04 2020 +0100
+
+    Added project info to the 'README' file
+
+commit f6d234fdecb42b76c841647a1fd3b327e060e8fb
+Author: Alex Duthie <alexduthiemain@outlook.com>
+Date:   Mon Sep 28 12:07:41 2020 +0100
+
+    Initial commit
